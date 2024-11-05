@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\doctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\doctors.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\receptionists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\receptionists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|c:\\users\\administrator\\source\\repos\\petclinic\\petclinic\\receptionists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDC21BD-10FD-4933-8C71-747E0369E5CE}|PetClinic\\PetClinic.csproj|solutionrelative:petclinic\\receptionists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctors.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Doctors.Designer.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Doctors.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Doctors.Designer.cs",
+              "RelativeToolTip": "PetClinic\\Doctors.Designer.cs",
+              "ViewState": "AQIAAAsCAAAAAAAAAAAAABACAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:55:55.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "PetClinic\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\DatabaseConnection.cs",
+              "RelativeToolTip": "PetClinic\\DatabaseConnection.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:15:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\login.resx",
+              "RelativeDocumentMoniker": "PetClinic\\login.resx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\login.resx",
+              "RelativeToolTip": "PetClinic\\login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-18T10:04:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Program.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Program.cs",
+              "RelativeToolTip": "PetClinic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:38:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "billing.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\billing.cs",
+              "RelativeDocumentMoniker": "PetClinic\\billing.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\billing.cs",
+              "RelativeToolTip": "PetClinic\\billing.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:34:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "billing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\billing.cs",
+              "RelativeDocumentMoniker": "PetClinic\\billing.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\billing.cs [Design]",
+              "RelativeToolTip": "PetClinic\\billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:27:25.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Receptionists.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Receptionists.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Receptionists.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Receptionists.cs",
+              "RelativeToolTip": "PetClinic\\Receptionists.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:26:35.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Prescription.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Prescription.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Prescription.cs",
+              "RelativeToolTip": "PetClinic\\Prescription.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:26:13.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "pets.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\pets.cs",
+              "RelativeDocumentMoniker": "PetClinic\\pets.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\pets.cs",
+              "RelativeToolTip": "PetClinic\\pets.cs",
+              "ViewState": "AQIAAAsAAAAwNDMzM3MrwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:25:30.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Doctors.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Doctors.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Doctors.cs",
+              "RelativeToolTip": "PetClinic\\Doctors.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:24:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\dashboard.cs",
+              "RelativeDocumentMoniker": "PetClinic\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\dashboard.cs",
+              "RelativeToolTip": "PetClinic\\dashboard.cs",
+              "ViewState": "AQIAACEAAADAmZmZmVkmwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:16:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\login.cs",
+              "RelativeDocumentMoniker": "PetClinic\\login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\login.cs",
+              "RelativeToolTip": "PetClinic\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:11:13.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\dashboard.cs",
+              "RelativeDocumentMoniker": "PetClinic\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\dashboard.cs [Design]",
+              "RelativeToolTip": "PetClinic\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:59:55.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\login.cs",
+              "RelativeDocumentMoniker": "PetClinic\\login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\login.cs [Design]",
+              "RelativeToolTip": "PetClinic\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:15:49.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Prescription.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Prescription.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Prescription.cs [Design]",
+              "RelativeToolTip": "PetClinic\\Prescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:40:37.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Receptionists.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Receptionists.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Receptionists.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Receptionists.cs [Design]",
+              "RelativeToolTip": "PetClinic\\Receptionists.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:44:20.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Doctors.cs",
+              "RelativeDocumentMoniker": "PetClinic\\Doctors.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\Doctors.cs [Design]",
+              "RelativeToolTip": "PetClinic\\Doctors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:35:49.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pets.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\pets.cs",
+              "RelativeDocumentMoniker": "PetClinic\\pets.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\PetClinic\\PetClinic\\pets.cs [Design]",
+              "RelativeToolTip": "PetClinic\\pets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:27:40.456Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

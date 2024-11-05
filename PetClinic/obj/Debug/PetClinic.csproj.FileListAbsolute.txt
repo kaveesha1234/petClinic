@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\bin\Debug\PetClinic.exe.config
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\bin\Debug\PetClinic.exe
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\bin\Debug\PetClinic.pdb
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.exe
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.pdb
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.pets.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.Doctors.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.Receptionists.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.login.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.Prescription.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.billing.resources
+C:\Users\Administrator\source\repos\PetClinic\PetClinic\obj\Debug\PetClinic.dashboard.resources
